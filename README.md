@@ -18,8 +18,6 @@ Solidity cho phép tạo ra các hợp đồng thông minh một cách an toàn,
 
 Solidity bị ảnh hưởng bởi Python, C#, Java nên ngôn ngữ này sử dụng số lượng cực lớn Programming Perceptions của các ngôn ngữ khác như câu lệnh, mảng, hàm, toán số học, biến số…Vì vậy, nếu bạn biết một ngôn ngữ như Java hoặc C, quá trình học tập và sử dụng Solidity của bạn sẽ dễ dàng hơn.
 
-banner test
-Cloud Server - Giải pháp đám mây giúp vận hành website ổn định, nhanh chóng
 Solidity là ngôn ngữ lập trình Blockchain cho nền tảng Ethereum và EVM, nó cung cấp rất nhiều tài liệu về mã nguồn mở, giúp bạn dễ dàng xây dựng các ứng dụng phức tạp từ sản phẩm của người khác. 
 
 Ví dụ, nếu bạn trong quá trình xây dựng một sàn DeFi cho mình, bạn hoàn toàn có thể fork mã nguồn của Chainlink và xây dựng thêm các tính năng mới, sáng tạo hơn trên nền của nó.
